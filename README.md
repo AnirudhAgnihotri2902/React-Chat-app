@@ -43,5 +43,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 
 ### About Website
-Created a chap app thats helps in talking to ur friends/family.
-Used Rest API for real time Server and also used React Framework for Dynamic Designs 
+Created a chap app that helps in talking to ur friends/family.
+
+
+Used HTML ,CSS,JAVASCRIPT, CHATENGINE.
+Used Rest API for real time Server and also used React Framework for Dynamic Changes.
